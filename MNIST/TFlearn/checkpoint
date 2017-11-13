@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/enggsudarshan/Desktop/MNIST/TFlearn/tflearncnn.model"
+all_model_checkpoint_paths: "/home/enggsudarshan/Desktop/MNIST/TFlearn/tflearncnn.model"
